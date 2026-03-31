@@ -7,3 +7,9 @@
 ```bash
 python3 hello.py
 ```
+
+## 期待される出力
+
+```
+Hello, World!
+```
